@@ -1,1 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><node artifactManager="be.nabu.eai.module.maven.MavenLibraryManager" lastModified="2016-10-18T21:13:20.937+02:00" leaf="true" version="3"><environmentId>hyperion</environmentId><properties/></node>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<node artifactManager="be.nabu.eai.module.maven.MavenLibraryManager" created="2025-08-26T12:21:59.866+02:00" lastModified="2025-08-26T12:21:59.866+02:00" leaf="true" version="4">
+    <environmentId>ares</environmentId>
+    <hidden>false</hidden>
+    <locked>false</locked>
+    <properties/>
+</node>
